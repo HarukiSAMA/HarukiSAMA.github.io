@@ -1,2 +1,2 @@
 # HarukiSAMA.github.io
-New Web
+self_intro
